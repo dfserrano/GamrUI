@@ -1,0 +1,41 @@
+.page-title {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.game-card {
+  width: 300px;
+}
+
+.game-rating {
+  font-size: 22pt;
+  color: slategray;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.game-votes {
+  font-size: 15pt;
+  color: lightgray;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.gold {
+  color: #fefefe;
+  background-color: gold;
+}
+
+.silver {
+  color: #fefefe;
+  background-color: silver;
+}
+
+.bronze {
+  color: #fefefe;
+  background-color: Sienna;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
