@@ -15,18 +15,18 @@ Gamr is a Like/Dislike style app, created with React, used in the course CMPUT40
 ## Installation
 First clone the application code into any directory on your disk (preferably, not using spaces in the folder structure)
 ```sh
-$ git clone https://github.com/dfserrano/GamrUI
-$ cd GamrUI
+git clone https://github.com/dfserrano/GamrUI
+cd GamrUI
 ```
 
 Install dependencies
 ```sh
-$ npm install
+npm install
 ```
 
 Run webpack (optionally, add -w to keep it running)
 ```sh
-$ webpack
+webpack
 ```
 
 Start the app
