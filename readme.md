@@ -24,6 +24,11 @@ Install dependencies
 $ npm install
 ```
 
+Run webpack (optionally, add -w to keep it running)
+```sh
+$ webpack
+```
+
 Start the app
 ```sh
 npm start
